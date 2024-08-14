@@ -1,4 +1,4 @@
-# Chicago Crime Data Analysis and Forecasting
+# Chicago Crime Data Analysis and Forecasting using Facebook's prophet - a procedure for forecasting time series data
 This project focuses on analyzing and predicting crime trends in Chicago using historical crime data from 2001 to the present (2024). The dataset is sourced from Kaggle and provides comprehensive information on various types of crimes committed in Chicago. The analysis aims to identify patterns, visualize crime data, and forecast future crime trends using the Facebook's Prophet model.
 
   
